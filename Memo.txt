@@ -1,0 +1,10 @@
+-11/11/2023 10pm
+Replace icons in Work Section NYF
+Can use live server plug in in VS code done
+<a href="yourlinkhere" target="_blank"> for open a new tab, yourlinkhere refers to social link, linkedIn, github,itch.io done
+
+-13/11/2023 00:37
+Replace fontawesome.min.css in web with new version in download.
+
+- 12/2/2023 18:40
+Can be deployed on github portfolio git
