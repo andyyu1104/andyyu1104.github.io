@@ -1775,6 +1775,7 @@ article:last-child {
 	width: auto;
 }
 
+
 /* Button */
 
 input[type="button"],
@@ -2056,6 +2057,16 @@ ul.actions li:first-child {
 	top: 2em;
 	margin: -4em 0 4em -4em;
 	width: auto;
+}
+
+.box.style2 {
+	transition: transform .2s;
+	/* Animation */
+}
+
+.box.style2:hover {
+	transform: scale(1.1);
+	/* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
 
 /* Icons */
